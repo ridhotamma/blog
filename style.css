@@ -1,0 +1,14 @@
+body{
+    background: url(./img/polygon-3840x2160-4k-5k-wallpaper-triangles-green-272.jpg) repeat;
+}
+.jumbotron{
+    background-color: transparent;
+    color: white;
+}
+.card{
+    background-color: black ;
+    color: white;
+}
+.btn {
+    color: white;
+}
